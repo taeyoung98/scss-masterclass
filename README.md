@@ -9,6 +9,14 @@
 👇 Goal image & my work: https://repl.it/@taeyoung98/CssLayoutMaster1 <br>
 
 <img src="Goal/Day2.jpeg" width="500px"/>
+
+<br />
+
+## Day 3
+
+👇 Goal image & my work: <br>
+
+<img src="https://cdn.shopify.com/s/files/1/0140/7312/products/bad_religion_3.jpg?v=1334268011" width="500px"/>
 <br>
 
 ## Flexbox:
