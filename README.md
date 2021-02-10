@@ -4,11 +4,9 @@
 
 ## Day 2
 
-👇 Click the goal image <br>
+👇 Goal image & my work: https://repl.it/@taeyoung98/CssLayoutMaster1 <br>
 
-<a hefr="https://repl.it/@taeyoung98/CssLayoutMaster1">
-    <img src="Goal/Day2.jpeg" width="600px"/>
-</a>
+<img src="Goal/Day2.jpeg" width="450px"/>
 <br>
 
 ## Flexbox:
