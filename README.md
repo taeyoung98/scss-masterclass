@@ -6,7 +6,7 @@
 
 👇 Goal image & my work: https://repl.it/@taeyoung98/CssLayoutMaster1 <br>
 
-<img src="Goal/Day2.jpeg" width="450px"/>
+<img src="Goal/Day2.jpeg" width="500px"/>
 <br>
 
 ## Flexbox:
