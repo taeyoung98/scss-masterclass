@@ -7,16 +7,9 @@
 👇 Click the goal image <br>
 
 <a hefr="https://repl.it/@taeyoung98/CssLayoutMaster1">
-    <img src="Goal/Day2.jpeg" width="400px" />
+    <img src="Goal/Day2.jpeg" width="500px" />
 </a>
- 
 <br>
-
-## FLEXBOX FROGGY
-
-<a href="https://flexboxfroggy.com">
-    <img src="https://user-images.githubusercontent.com/41332126/107466028-c80d7380-6ba6-11eb-9d13-0194aec342b6.png" />
-</a>
 
 ## Flexbox:
 
@@ -32,6 +25,11 @@
 - [x] align-self
 - [ ] flex-flow
 
+## FLEXBOX FROGGY
+
+<a href="https://flexboxfroggy.com">
+    <img src="https://user-images.githubusercontent.com/41332126/107466028-c80d7380-6ba6-11eb-9d13-0194aec342b6.png" />
+</a>
 <br>
 
 ## Grid:
