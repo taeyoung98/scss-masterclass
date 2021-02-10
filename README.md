@@ -2,6 +2,8 @@
 
 (S)CSS Layout MasterClass: Flexbox & Grid
 
+<br>
+
 ## Day 2
 
 👇 Goal image & my work: https://repl.it/@taeyoung98/CssLayoutMaster1 <br>
