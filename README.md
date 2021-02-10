@@ -2,18 +2,37 @@
 
 (S)CSS Layout MasterClass: Flexbox & Grid
 
+## Day 2
+
+👇 Click the goal image <br>
+
+<a hefr="https://repl.it/@taeyoung98/CssLayoutMaster1">
+    <img src="Goal/Day2.jpeg" width="400px" />
+</a>
+ 
+<br>
+
+## FLEXBOX FROGGY
+
+<a href="https://flexboxfroggy.com">
+    <img src="https://user-images.githubusercontent.com/41332126/107466028-c80d7380-6ba6-11eb-9d13-0194aec342b6.png" />
+</a>
+
 ## Flexbox:
 
-- [ ] flex-direction
-- [ ] flex-wrap
-- [ ] justify-content
-- [ ] align-items
-- [ ] align-content
-- [ ] order
-- [ ] flex-grow
-- [ ] flex-shrink
-- [ ] flex-basis
-- [ ] align-self
+- [x] flex-direction
+- [x] flex-wrap
+- [x] justify-content
+- [x] align-items
+- [x] align-content
+- [x] order
+- [x] flex-grow
+- [x] flex-shrink
+- [x] flex-basis
+- [x] align-self
+- [ ] flex-flow
+
+<br>
 
 ## Grid:
 
@@ -59,14 +78,14 @@
 
 ## To Clone:
 
-- [ ] [https://besthorrorscenes.com](https://besthorrorscenes.com)
-- [ ] [https://paint-box.com] (https://paint-box.com)
-- [ ] [http://10x19.co/] (http://10x19.co/)
-- [ ] [http://www.z-o-o.fr/] (http://www.z-o-o.fr/)
-- [ ] [https://schwartzmedia.com.au] (https://schwartzmedia.com.au)
-- [ ] [https://tolv.dk] (https://tolv.dk)
-- [ ] [https://rodicdavidson.co.uk] (https://rodicdavidson.co.uk)
-- [ ] [https://beige.de] (https://beige.de)
-- [ ] [https://donicaida.com] (https://donicaida.com)
-- [ ] [https://canalstreet.market] (https://canalstreet.market)
-- [ ] [https://wonhundred.com/] (https://wonhundred.com/)
+- [ ] (영화 웹) https://besthorrorscenes.com
+- [ ] (쇼핑몰) https://paint-box.com
+- [ ] (포트폴리오) http://10x19.co/
+- [ ] (포트폴리오. 프랑스) http://www.z-o-o.fr/
+- [ ] (쇼핑+포트폴리오. 호주) https://schwartzmedia.com.au
+- [ ] (쇼핑몰. 덴마크) https://tolv.dk
+- [ ] (포트폴리오) https://rodicdavidson.co.uk
+- [ ] (포트폴리오. 독일) https://beige.de
+- [ ] (개인. 이력서) https://donicaida.com
+- [ ] (단체 소개 웹) https://canalstreet.market
+- [ ] (쇼핑몰) https://wonhundred.com/

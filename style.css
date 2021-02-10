@@ -1,0 +1,25 @@
+body {
+  height: 100vh;
+  display: flex;
+  /* Main Axis */
+  justify-content: space-around;
+  /* Cross Axis */
+}
+
+.box {
+  background-color: tan;
+  width: 100px;
+  height: 100px;
+  margin-bottom: 2px;
+  font-size: 20px;
+  order: 4;
+}
+
+.box:nth-child(2) {
+  align-self: center;
+  order: -1;
+}
+.box:nth-child(3) {
+  align-self: flex-end;
+  order: 3;
+}
